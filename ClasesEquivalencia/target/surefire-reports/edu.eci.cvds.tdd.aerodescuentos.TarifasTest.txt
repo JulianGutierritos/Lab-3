@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: edu.eci.cvds.tdd.aerodescuentos.TarifasTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.035 s <<< FAILURE! - in edu.eci.cvds.tdd.aerodescuentos.TarifasTest
+validateTarifaIgualMenos1(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.validateTarifaIgualMenos1(TarifasTest.java:102)
+
+validateEdadIgual17DiasIgualA20(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<95> but was:<100>
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.validateEdadIgual17DiasIgualA20(TarifasTest.java:22)
+
+validateDiasIgualMenos1(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.validateDiasIgualMenos1(TarifasTest.java:85)
+
+validateEdadIgual66DiasIgualA20(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<92> but was:<100>
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.validateEdadIgual66DiasIgualA20(TarifasTest.java:48)
+
+validateEdadIgualMenos1(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at edu.eci.cvds.tdd.aerodescuentos.TarifasTest.validateEdadIgualMenos1(TarifasTest.java:68)
+
